@@ -14,8 +14,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 **Key Insights & Recommendations**
 ➡️ City Wise Revenue Performance:
 Delhi where it’s Occupancy% is high among all four cities but revenue is low. ‘Atliq Grands’ in Delhi has good ratings & Occupancy%, but need pricing strategies as per demand and supply.
+
 ➡️ City Wise Occupancy Performance:
 Occupancy wise Bangalore is performing low & has a low customer rating along with high cancellations. The ‘AtliQ Grands’ in Bangalore has average rating of 2.7, so the company need to work on the customer service, improve online rating & stay updated in social platforms.
+
 ➡️ City Wise RevPar Performance:
 Hyderabad has the lowest RevPar, where the occupancy is around 58% but ADR & RevPar is low. The ‘AtliQ Exotica’ has low rating & ADR.
 
