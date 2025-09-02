@@ -72,7 +72,7 @@ This improves margins by reducing dependence on high-commission channels.
 I’ve shared my learnings and insights from this project on LinkedIn.  
 👉 [Read the post here](https://www.linkedin.com/feed/update/urn:li:activity:7368324916955250688/)
 
-**Presentation ** :- (https://github.com/MahiAgarwal-K/AtliQ-Grands-Hospitality-Management-Reports/blob/main/Presentation.pdf)
+**Presentation** :- [Linl](https://github.com/MahiAgarwal-K/AtliQ-Grands-Hospitality-Management-Reports/blob/main/Presentation.pdf)
 
 
 
