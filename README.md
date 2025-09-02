@@ -66,4 +66,10 @@ This improves margins by reducing dependence on high-commission channels.
 
 ➡️ Use A/B testing on website offers to measure conversion uplift.
 
+📢 **LinkedIn Post  **
+
+I’ve shared my learnings and insights from this project on LinkedIn.  
+👉 [Read the post here](https://www.linkedin.com/feed/update/urn:li:activity:7368324916955250688/)
+
+
 
